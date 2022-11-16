@@ -1,0 +1,6 @@
+8.
+- tạo branch mới tên feature-phuongnt-rebase
+- nhánh mới khởi đầu từ commit message 3
+(kế thừa feature-phuongnt từ commit message 3 trở về trước)
+14.
+- dùng lệnh git merge feature-phuongnt để gộp nhánh
